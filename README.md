@@ -28,7 +28,7 @@
         }
 
         public void dailyKnowledge () {
-            System.out.println(" Code: HTML, CSS, Javascript, Java");
+            System.out.println(" Code: HTML, CSS, Javascript, Java, Lua, C/C++");
             System.out.println(" Tools: React, Redux, Bootstrap, Spring Framework, Lombrok");
         }
 
