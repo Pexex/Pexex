@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Roberto Peixinho 👋
 
-<!--
-**Pexex/Pexex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width=250px>
 
-Here are some ideas to get you started:
+```Java
+    public class About extends Me {
+        private String name, pronouns;
+ 
+        public About (String nome, String pronomes){
+            super ();
+            this.name = nome;
+            this.pronouns = pronomes;
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        public void dailyKnowledge () {
+            System.out.println(" Code: HTML, CSS, Javascript, Java");
+            System.out.println(" Tools: React, Redux, Bootstrap, Spring Framework, Lombrok");
+        }
+
+        public void futureGoal () {
+            System.out.println("To be a Fullstack Developer");
+        }       
+    }
+
+    String nome = "Roberto Peixinho";
+    String pronomes = "Ele/Dele";
+
+    About Dev = new About(nome, pronomes);
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
