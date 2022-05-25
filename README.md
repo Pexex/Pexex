@@ -50,5 +50,14 @@
 </details>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 17 May 2022 - To: 24 May 2022
+
+Markdown   33 mins         ██████████████████▒░░░░░░   73.85 %
+YAML       10 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+Java       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+```
+
 <!--END_SECTION:waka-->
 
