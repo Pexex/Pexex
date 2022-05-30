@@ -19,3 +19,8 @@ jobs:
           SHOW_OS: false
           SHOW_TITLE: true
           TIME_RANGE: last_14_days
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_COMMIT: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
