@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 08 June 2022 - To: 15 June 2022
 
 JavaScript   18 hrs 6 mins   ██████████████████▒░░░░░░   72.93 %
 Java         5 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
