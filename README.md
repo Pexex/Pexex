@@ -49,11 +49,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pexex)](https://github.com/Pexex/github-readme-stats)
 </details>
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
