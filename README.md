@@ -29,7 +29,10 @@
 
         public void dailyKnowledge () {
             System.out.println(" Code: HTML, CSS, Javascript, Typescript, NodeJS, Java, Lua, C/C++");
-            System.out.println(" Tools: ReactJS, React Native, Prisma, NextJs, Vite, Expo, Redux, Bootstrap, Tailwind, Spring Framework, Lombrok, JPA/Hibernate, JavaFX");
+            System.out.println(" 
+                                Tools: ReactJS, React Native, Prisma, NextJs, Vite, Expo, Redux, 
+                                Bootstrap, Tailwind, Spring Framework, Lombrok, JPA/Hibernate, JavaFX"
+                               );
         }
 
         public void futureGoal () {
