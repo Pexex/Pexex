@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width=250>
 
-<p>Professional training instructor in the multimedia course in the new high school!</p>
+<p>Professional training instructor in the multimedia course in the brazilian new high school!</p>
 
 ---
 
